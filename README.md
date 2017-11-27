@@ -1,2 +1,2 @@
-# python_project
-# A choose your own adventure for the conditionals and control flow assignment
+# make a plot assignment
+# Plot of McDonalds Revenue for the last 11 years in matplotlib
